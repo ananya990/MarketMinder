@@ -1,0 +1,2 @@
+# MarketMinder
+SuperMarket Inventory Management
